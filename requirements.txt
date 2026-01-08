@@ -32,6 +32,6 @@ SQLAlchemy==1.4.19
 typing-extensions==3.7.4.3
 urllib3==1.26.6
 virtualenv==20.4.7
-Werkzeug==2.2.3
+Werkzeug==3.1.5
 WTForms==2.3.3
 yarl==1.6.3
