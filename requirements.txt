@@ -31,7 +31,7 @@ slackclient==2.9.3
 SQLAlchemy==1.4.19
 typing-extensions==3.7.4.3
 urllib3==2.6.3
-virtualenv==20.26.6
+virtualenv==20.36.1
 Werkzeug==3.1.5
 WTForms==2.3.3
 yarl==1.6.3
