@@ -23,7 +23,7 @@ Jinja2==3.1.6
 MarkupSafe==2.0.1
 multidict==5.1.0
 mysql-connector-python==9.1.0
-Pillow==10.3.0
+Pillow==12.1.1
 pygame==2.0.1
 requests==2.32.4
 six==1.16.0
